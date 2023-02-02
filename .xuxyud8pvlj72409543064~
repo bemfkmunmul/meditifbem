@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="BAHTERA NARAYA">
+    <link rel="icon" href="img/bahteralogo.png" type="image/x-icon">
+    <meta name="keywords" content="BEM, UNMUL, FKM, Kesmas, Public Health, html">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>BEM FKM UNMUL</title>
+
+     <!-- Css Styles -->
+     <link rel="stylesheet" href="css/jam.css" type="text/css">
+</head>
+
+ <body>
+ <div class="jam-digital">
+   <h1>Jam Digital</h1>
+   <div id="jam"></div>
+   <div id="unit">
+     <span>Jam</span>
+     <span>Menit</span>
+     <span>Detik</span>
+   </div>
+</div>
+
+ <!-- Js Plugins -->
+ <script src="js/jam.js"></script>
+</body>
+</html>
